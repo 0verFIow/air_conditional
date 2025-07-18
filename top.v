@@ -119,4 +119,8 @@ module dht11_top(
     // 나머지 LED는 0으로 유지 (필요시 추가 가능)
     assign led[9:0] = 0;
 
+
+
+    
+
 endmodule
